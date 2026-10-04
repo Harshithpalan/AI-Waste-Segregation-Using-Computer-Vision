@@ -18,8 +18,7 @@ A web application that uses computer vision to classify waste items into differe
 
 ## Project Structure
 
-```
-.
+```.
 ├── backend/
 │   ├── app.py              # Flask API server
 │   ├── train_model.py      # Model training script
